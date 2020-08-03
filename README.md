@@ -8,7 +8,7 @@
 #### Happy day scenario
 #### Exceptional condition: Some transactions available on either of the two which is not available on the other sheet
 
-#Introduction
+# Introduction
 The purpose of [Fund_Monthly_Reconciliation_Macro.xlsm](https://github.com/Vanipreet/Automated_Fund_Monthly_Reconciliation/blob/master/Fund_Monthly_Reconciliation/Fund_Monthly_Reconciliation_Macro.xlsm) is to create an automated process for the execution of Portfolio's / Fund's Monthly Reconciliation. There are multiple assumptions and pre-requisites that has been kept in place for the smooth execution of this macro.
 
 # Assumptions
