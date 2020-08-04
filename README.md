@@ -7,7 +7,7 @@
 ### [Steps to run the macro](#steps-to-run-the-macro-1)
 #### [Happy day scenario](#happy-day-scenario-1)
 #### [Exceptional condition: Some transactions available on either of the two which is not available on the other sheet](#exceptional-condition-some-transactions-available-on-either-of-the-two-which-is-not-available-on-the-other-sheet-1)
-#### [Forward](#forward-1)
+### [Forward](#forward-1)
 
 # Introduction
 The purpose of [Fund_Monthly_Reconciliation_Macro.xlsm](https://github.com/Vanipreet/Automated_Fund_Monthly_Reconciliation/blob/master/Fund_Monthly_Reconciliation/Fund_Monthly_Reconciliation_Macro.xlsm) is to create an automated process for the execution of Portfolio's / Fund's Monthly Reconciliation. There are multiple assumptions and pre-requisites that has been kept in place for the smooth execution of this macro.
