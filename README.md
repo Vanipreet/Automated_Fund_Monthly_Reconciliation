@@ -7,6 +7,7 @@
 ### [Steps to run the macro](#steps-to-run-the-macro-1)
 #### [Happy day scenario](#happy-day-scenario-1)
 #### [Exceptional condition: Some transactions available on either of the two which is not available on the other sheet](#exceptional-condition-some-transactions-available-on-either-of-the-two-which-is-not-available-on-the-other-sheet-1)
+####[Forward](#forward-1)
 
 # Introduction
 The purpose of [Fund_Monthly_Reconciliation_Macro.xlsm](https://github.com/Vanipreet/Automated_Fund_Monthly_Reconciliation/blob/master/Fund_Monthly_Reconciliation/Fund_Monthly_Reconciliation_Macro.xlsm) is to create an automated process for the execution of Portfolio's / Fund's Monthly Reconciliation. There are multiple assumptions and pre-requisites that has been kept in place for the smooth execution of this macro.
@@ -43,5 +44,14 @@ Please Note: All the mapping is required only on the Module 1
 11. Add few new transactions in either the Bank statmenet or broker statement sheets ()
 12. Go through the summary sheet for this new recon sheet
 
+# Forward
 
+This macro is a starting step for Monthly Reconciliation of fund/ portfolio, utilizing some tweaks this can accurately fulfil Monthly calculation requirement.
+
+However the bigger picture is that instead of making this macro to work on a single fund, it can be accurately "Looped" for multiple funds.
+
+This macro can be accurately mapped to incorporate Daily/ Weekly/ Quarterly and Annual reconciliations as well.
+
+If this macro is to run on windows system, "Task Scheduler" can be utilized to automatically update the input files at a precribed time from the source drive and also to automatically run this macro so monthly reconciliation can be calculated without any human intervention. 
+(Apple systems might also have something similar to task scheduler that can be utilized)
 
