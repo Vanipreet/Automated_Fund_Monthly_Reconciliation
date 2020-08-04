@@ -5,8 +5,8 @@
 ### [Assumptions](#assumptions-1)
 ### [Automated_Fund_Monthly_Reconciliation_processflow diagram](#automated_fund_monthly_reconciliation_processflow-diagram-1)
 ### [Steps to run the macro](#steps-to-run-the-macro-1)
-#### [Happy day scenario](#happy-day-scenario-1)
-#### [Exceptional condition: Some transactions available on either of the two which is not available on the other sheet](#exceptional-condition-some-transactions-available-on-either-of-the-two-which-is-not-available-on-the-other-sheet-1)
+  #### [Happy day scenario](#happy-day-scenario-1)
+  #### [Exceptional condition: Some transactions available on either of the two which is not available on the other sheet](#exceptional-condition-some-transactions-available-on-either-of-the-two-which-is-not-available-on-the-other-sheet-1)
 ### [Forward](#forward-1)
 
 # Introduction
