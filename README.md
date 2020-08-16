@@ -26,7 +26,7 @@ This macro is built with few assumptions in mind as listed below
 
 # Steps to run the macro
 
-1. Download the zip file [Fund_Monthly_Reconciliation](https://github.com/Vanipreet/Automated_Fund_Monthly_Reconciliation/tree/master/Fund_Monthly_Reconciliation) onto your preferred location and unzip the file there
+1. Download the zip file [Fund_Monthly_Reconciliation](https://github.com/Vanipreet/Automated_Fund_Monthly_Reconciliation/archive/master.zip) onto your preferred location and unzip the file there
 2. Open Fund_Monthly_Reconciliation_Macro.xlsm workbook
 3. Right click on macro button "Monthly Reconciliation"
 4. From the drop down options click on "Assign Macro"
